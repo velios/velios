@@ -1,4 +1,4 @@
-### Hi there 👋
+![I'm Clojure Full-Stack Developer](./github-header-image.png)
 
 <!--
 **velios/velios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
